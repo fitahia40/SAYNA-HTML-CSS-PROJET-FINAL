@@ -1,0 +1,13 @@
+
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(group-1.jpg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: 100%;
+}
